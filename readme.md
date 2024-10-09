@@ -1,5 +1,4 @@
-# Lista de Tareas
-## Trabajo 04 - Agregar Almacenamiento en SQLite
+# Trabajo 04 - Agregar Almacenamiento en SQLite
 
 Programacion para Internet
 
