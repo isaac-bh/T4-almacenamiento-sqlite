@@ -5,7 +5,8 @@ Programacion para Internet
 
 ### Alumno
 Isaac Alain Benavides Hernandez
-216817953
+
+**Código:** 216817953
 
 > [!NOTE]  
 > Debido a que no tengo un servidor para correr el backend, no subí esta practica a Github Pages.
@@ -51,8 +52,8 @@ Si volvemos a revisar el backend haciendo una solicitud `GET` a la ruta `http://
 
 #### Estructura de la API REST
 ```
-|--> /          GET
-|--> tasks
+|--> /        GET
+|--> /tasks
     |--> /    GET
     |--> /    POST
     |--> /:id GET
